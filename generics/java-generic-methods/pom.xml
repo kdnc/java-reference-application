@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>javagenerics</groupId>
-    <artifactId>java-generic-classes</artifactId>
+    <artifactId>java-generic-methods</artifactId>
     <version>1.0</version>
     
     <properties>
