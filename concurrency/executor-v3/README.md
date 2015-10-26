@@ -1,4 +1,4 @@
-# Threads
+# Executors
 
 ## Table of Contents
 **[Resource location](#resource-location)** 
