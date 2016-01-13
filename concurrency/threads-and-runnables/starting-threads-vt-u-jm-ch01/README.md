@@ -2,6 +2,7 @@
 
 ## Table of Contents
 **[Resource location](#resource-location)** 
+**[Overview](#overview)**
 **[System requirements](#system-requirements)**
 
 ## Resource location
@@ -10,6 +11,11 @@ Starting Threads
 - Resource website - [https://www.udemy.com/java-multithreading](https://www.udemy.com/java-multithreading)
 - Source repository - [https://github.com/Beerkay/JavaMultiThreading/tree/master/JavaMultiThreadingCodes/src/StartingThreads_1](https://github.com/Beerkay/JavaMultiThreading/tree/master/JavaMultiThreadingCodes/src/StartingThreads_1)
 
+## Overview
+
+- Starting threads using the Thread constructor with anonymous classes
+- Starting Threads with extending Thread class
+- Starting Threads using Runnable Interface
 
 ## System requirements
 
