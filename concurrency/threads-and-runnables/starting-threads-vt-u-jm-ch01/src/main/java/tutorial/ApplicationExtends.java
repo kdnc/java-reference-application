@@ -1,4 +1,4 @@
-package StartingThreads_1;
+package tutorial;
 
 /**
  * Starting Threads with extends

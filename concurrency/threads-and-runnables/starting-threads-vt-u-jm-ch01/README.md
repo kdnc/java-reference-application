@@ -1,11 +1,14 @@
-# Threads
+# Starting Threads
 
 ## Table of Contents
 **[Resource location](#resource-location)** 
 **[System requirements](#system-requirements)**
 
 ## Resource location
-- Source repository - [https://github.com/winterbe/java8-tutorial/tree/master/src/com/winterbe/java8/samples/concurrent](https://github.com/winterbe/java8-tutorial/tree/master/src/com/winterbe/java8/samples/concurrent)
+- Resource - [Udemy] Java Multithreading - Lecture 1 - 	
+Starting Threads
+- Resource website - [https://www.udemy.com/java-multithreading](https://www.udemy.com/java-multithreading)
+- Source repository - [https://github.com/Beerkay/JavaMultiThreading/tree/master/JavaMultiThreadingCodes/src/StartingThreads_1](https://github.com/Beerkay/JavaMultiThreading/tree/master/JavaMultiThreadingCodes/src/StartingThreads_1)
 
 
 ## System requirements

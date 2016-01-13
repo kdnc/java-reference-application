@@ -1,4 +1,4 @@
-package StartingThreads_1;
+package tutorial;
 
 /**
  * Starting threads using the Thread constructor with anonymous classes

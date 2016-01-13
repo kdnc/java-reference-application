@@ -1,4 +1,4 @@
-# Threads
+# Starting Threads
 
 ## Table of Contents
 **[Resource location](#resource-location)** 
